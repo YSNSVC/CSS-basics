@@ -1,0 +1,23 @@
+body{
+    color: rgb(182, 174, 71);
+    background-color: black;
+}
+
+
+
+.black-border {
+    border: 5px solid rgb(133, 133, 133);
+}
+
+#green-background {
+    background-color: green;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.dag{
+     font-size:larger;
+    }

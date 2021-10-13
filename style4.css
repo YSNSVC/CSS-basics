@@ -1,0 +1,31 @@
+body{
+    background-color: wheat;
+}
+
+h1{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 40px;
+    border-right-width: thick;
+    border-width: 20px;
+    border-right: 40px;
+    font-style: oblique;
+}
+
+body{
+    background-image: url('SiwaSandDunes.jpg');
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-position-x: center;
+    background-position-y: 500px;
+}
+
+h2{
+    border: 1px solid black;
+    border-radius: 10px;
+    border-width: 10px;
+}
+
+div{
+    font-style: initial;
+    font-size: 12px;
+}
